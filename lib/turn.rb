@@ -24,7 +24,8 @@ def move (board, index, character = "X")
   board[index] = character
 end
 
-def turn (turn)
+def turn (input)
   puts "Please enter 1-9:"
+  input = gets.chomp
 end
   
