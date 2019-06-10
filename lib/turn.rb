@@ -32,7 +32,7 @@ def turn (input)
     move(board, index, character)
     display_board(board)
   else
-    
+    turn(input)
   end
 end
   
