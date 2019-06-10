@@ -1,7 +1,12 @@
-display_board
+def display_board
 
-valid_move?
+end
 
-move
+def valid_move?
 
+end
+
+def move
+
+end
 
