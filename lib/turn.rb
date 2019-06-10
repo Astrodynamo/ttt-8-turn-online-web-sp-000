@@ -15,6 +15,11 @@ def position_taken? (board, index)
   true
 end
 
+def input_to_index(input)
+  input = input.to_i - 1
+  input
+end
+
 def move
 
 end
